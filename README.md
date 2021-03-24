@@ -1,2 +1,2 @@
 # hello-world
-I am here
+I am a technologist and an entreepreneur
